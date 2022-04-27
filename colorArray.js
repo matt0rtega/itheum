@@ -1,3 +1,7 @@
+import styled from "styled-components"
+
+
+
 const colors = [
   "#2C3E50",
   "#E74C3C",
